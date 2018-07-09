@@ -1,0 +1,2 @@
+/home/chen/Documents/mypractise/testcmake/cmake3/build/lib/CMakeFiles/hello.dir
+/home/chen/Documents/mypractise/testcmake/cmake3/build/lib/CMakeFiles/hello_static.dir

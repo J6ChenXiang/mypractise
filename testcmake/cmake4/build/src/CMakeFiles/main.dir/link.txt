@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/main.dir/main.o  -o main  -L/tmp/usr/lib -rdynamic -lhello -Wl,-rpath,/tmp/usr/lib 

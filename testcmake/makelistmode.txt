@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 2.8)
+project(HELLOAAA)
+aux_source_directory(./ DIR_SRC)
+add_executable(CHEN ${DIR_SRC})
